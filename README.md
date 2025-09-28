@@ -5,7 +5,11 @@ This demo showcases how to use `ManipulationEvents` in **visionOS 26 to link **g
 You can either tap the microphone manually to begin, **or** simply reach out and grab the 8-ball with your hand.
 
 ---
+<p align="center">
+  <img src="Assets/demo.gif" width="600" alt="Magic 8-Ball demo">
+</p>
 
+---
 ### How It Works
 
 - When the user **grabs the 3D 8-ball**, the system emits a `ManipulationEvents.WillBegin` event.
