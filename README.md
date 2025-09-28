@@ -1,13 +1,12 @@
 # Speech to Text and Foundation Models
 
-This demo showcases how to use `ManipulationEvents` in **visionOS 26 to link **gesture input** with **speech recognition** — turning an 8-Ball into a voice-activated experience powered by Apple’s Foundation model.
+This demo showcases how to use `ManipulationEvents` in visionOS 26 to link **gesture input** with **speech recognition** — turning an 8-Ball into a voice-activated experience powered by Apple’s Foundation model.
 
 You can either tap the microphone manually to begin, **or** simply reach out and grab the 8-ball with your hand.
 
 ---
-<p align="center">
-  <img src="Assets/demo.gif" width="600" alt="Magic 8-Ball demo">
-</p>
+
+![Magic 8-Ball Demo](Simulator%20Screen%20Recording.gif)
 
 ---
 ### How It Works
